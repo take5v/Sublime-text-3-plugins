@@ -20,7 +20,8 @@
 		"*.zip"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/OneDark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/One Dark (SL).tmTheme",
+	"font_options": ["gray_antialias", "subpixel_antialias"],
 	"font_size": 13,
 	"ignored_packages":
 	[
