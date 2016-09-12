@@ -1,0 +1,17 @@
+[
+    // Reveal in side bar
+    {
+        "keys": ["ctrl+super+r"],
+        "command": "reveal_in_side_bar"
+    },
+    // Copy file name
+    {
+        "keys": ["cmd+shift+c"],
+        "command": "copy_path_to_clipboard"
+    },
+    // Close all other tabs
+    {
+        "keys": ["cmd+alt+w"],
+        "command": "close_tabs"
+    }
+]
